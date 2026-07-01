@@ -10,7 +10,7 @@ A production-ready, Netflix-style movie recommendation system powered by a **Hyb
 
 ## 🚀 Live Demo
 
-👉 **[View Live](https://yourusername.github.io/netflix-ai)**
+👉 **[View Live](https://saoodalam07.github.io/netflix-ai/)**
 
 ---
 
