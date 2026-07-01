@@ -130,7 +130,7 @@ User Profile (847 signals)
 **Muhammad Saood Alam**
 - 🎓 BS Artificial Intelligence — The Islamia University of Bahawalpur
 - 💼 AI Engineer Intern @ NETSOL Technologies
-- 🔗 [LinkedIn](https://linkedin.com/in/saoodalam07)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-saood-alam-5428052a0/)
 - 🐙 [GitHub](https://github.com/Saoodalam07)
 
 ---
